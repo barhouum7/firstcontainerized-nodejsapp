@@ -1,0 +1,29 @@
+{
+  "name": "firstcontainerized-nodejsapp",
+  "version": "0.0.1",
+  "description": "This is my first containerized nodeJS app using Dockerfile, built on top of the Alpine OS image",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barhouum7/firstcontainerized-nodejsapp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "docker",
+    "container",
+    "Dockerfile",
+    "npm",
+    "docker-image",
+    "docker-compose"
+  ],
+  "author": "Ibrahim BHMBS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barhouum7/firstcontainerized-nodejsapp/issues"
+  },
+  "homepage": "https://github.com/barhouum7/firstcontainerized-nodejsapp#readme"
+}
